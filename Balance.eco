@@ -1,0 +1,10 @@
+{
+  "CalorieMultiplierOnMove": 5,
+  "CraftingQueueQuantity": 5,
+  "MaintenanceDecayPercentage": 0,
+  "MaintenanceDecayMultiplier": 0,
+  "ToolRepairPenalty": 0.0,
+  "RetroactiveExperienceRate": 0,
+  "SpecialtyExperiencePerLevelSquared": 25.0,
+  "SkillGainMultiplier": 1.1
+}
